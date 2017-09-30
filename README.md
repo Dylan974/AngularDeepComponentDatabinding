@@ -1,0 +1,1 @@
+angular-deep-component-databinding
